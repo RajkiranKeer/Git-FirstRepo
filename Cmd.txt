@@ -1,0 +1,7 @@
+git status
+
+gite --version
+
+git init
+
+git status
